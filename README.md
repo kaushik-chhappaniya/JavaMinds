@@ -24,4 +24,4 @@ cd JavaMinds
 Run the Java programs using your preferred IDE or compile them from the command line.
 
 ## License
-This project is licensed under the ![MIT LICENSE](/LICENSE).
+This project is licensed under the [MIT LICENSE](/LICENSE).
