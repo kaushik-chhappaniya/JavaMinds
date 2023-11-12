@@ -1,12 +1,14 @@
+
 package basicJava;
 import java.util.Scanner;
-
 /**
  * @author Kaushik Chhappaniya
  *
  * @email kkcanr@gmail.com
  * Nov 6, 2023
  */
+
+import java.util.Scanner;
 public class PrintPrimeNumbers {
 	/**
 	 * Function Prints all prime numbers from 0 to the given number
