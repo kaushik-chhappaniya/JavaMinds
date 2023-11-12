@@ -1,9 +1,13 @@
+
+package basicJava;
+import java.util.Scanner;
 /**
  * @author Kaushik Chhappaniya
  *
  * @email kkcanr@gmail.com
  * Nov 6, 2023
  */
+
 import java.util.Scanner;
 public class PrintPrimeNumbers {
 	/**
