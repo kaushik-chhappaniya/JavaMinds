@@ -6,7 +6,6 @@ import java.util.Scanner;
  *
  * @email kkcanr@gmail.com
  */
-
 public class PrintPrimeNumbers {
 	/**
 	 * Function Prints all prime numbers from 0 to the given number
